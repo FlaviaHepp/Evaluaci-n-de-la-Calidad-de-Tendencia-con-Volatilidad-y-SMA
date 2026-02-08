@@ -1,0 +1,1 @@
+# Evaluaci-n-de-la-Calidad-de-Tendencia-con-Volatilidad-y-SMA

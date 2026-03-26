@@ -99,3 +99,77 @@ Configurar:
 
 Flavia Hepp
 Proyecto de SQL aplicado a análisis técnico y evaluación de calidad de tendencia.
+
+****
+📈⚠️ **Buenas noticias… pero una tendencia “sucia” — algo no cierra**
+
+En teoría, cuando una empresa anuncia una recompra de acciones, el mensaje es claro:
+
+👉 Confianza de la gerencia
+👉 Señal positiva al mercado
+
+Pero… el precio no siempre acompaña de forma “saludable”.
+
+---
+
+💡 Estuve analizando un insight interesante:
+
+**¿Qué pasa cuando el precio está demasiado alejado de su tendencia de largo plazo (SMA 200) justo en estos eventos?**
+
+---
+
+🔥 **La señal que buscamos:**
+
+* 🟢 Evento positivo → recompra de acciones
+* 📊 Pero el precio está a más de **5% de su SMA 200**
+* ⚠️ Indica una **desviación significativa** respecto a la tendencia
+
+---
+
+🧠 **¿Qué significa esto?**
+
+No todo rally es “limpio”.
+
+👉 Puede haber:
+
+* Volatilidad excesiva
+* Sobre-reacción del mercado
+* Movimientos poco sostenibles
+
+---
+
+📉 En otras palabras:
+
+Aunque la señal fundamental sea positiva…
+👉 la estructura técnica puede estar mostrando **fragilidad**
+
+---
+
+📊 ¿Por qué es importante?
+
+Porque permite filtrar:
+
+* ❌ Señales “ruidosas”
+* ✅ Tendencias realmente sólidas
+
+---
+
+⚡ Aplicaciones:
+
+* Evaluar calidad de tendencias post-evento
+* Evitar entradas en zonas extendidas
+* Mejorar timing en estrategias long
+* Detectar posibles correcciones
+
+---
+
+💬 No todas las buenas noticias generan buenos trades.
+
+👉 La clave no es solo el “qué”…
+sino el **cómo se mueve el precio alrededor de su tendencia**
+
+---
+
+En trading cuantitativo, la calidad del movimiento importa tanto como la dirección.
+
+¿Preferís entrar en tendencias limpias… o perseguir movimientos fuertes aunque sean volátiles? 👇
